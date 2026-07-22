@@ -1,0 +1,22 @@
+<svg width="950" height="320" viewBox="0 0 950 320" xmlns="http://www.w3.org/2000/svg">
+
+  <g fill="#F2F2F2">
+    <!-- A main stroke -->
+    <polygon points="299,24 386,24 117,296 30,296" />
+
+    <!-- A inner shape -->
+    <polygon points="306,194 409,296 306,296 255,245" />
+
+    <!-- K -->
+    <polygon points="547,24 644,24 514,156 656,296 566,296 416,156" />
+
+    <!-- E top -->
+    <polygon points="754,24 921,24 864,81 696,81" />
+
+    <!-- E middle -->
+    <polygon points="622,146 797,146 848,197 674,197" />
+
+    <!-- E bottom -->
+    <polygon points="718,254 876,254 918,296 759,296" />
+  </g>
+</svg>
